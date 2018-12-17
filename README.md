@@ -1,5 +1,5 @@
 # KotlinExperience
-习惯用java开发安卓的小伙伴们，这下懵逼了。
+Google宣布Kotlin成为Android开发的官方语言，习惯用java开发Android的小伙伴们，这下懵逼了
 ##  掀开kotlin的神秘,常量定义，var和val
 ```
     var a: Int = 1  // 立即赋值为Int类型的a
